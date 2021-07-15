@@ -1,7 +1,6 @@
 * {
     padding: 0;
     margin: 0;
-    border: 0;
     box-sizing: border-box;
 }
 
@@ -9,8 +8,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
-
+    min-height: 100vh;   
     font-family: 'Press Start 2P', cursive;
     transition: 0.8s all;
 }
