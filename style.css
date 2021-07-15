@@ -131,6 +131,7 @@ h1:hover {
     background: repeating-linear-gradient(-45deg, orange, thistle 5px, darkslategrey 5px, teal 10px);
     border: 1px solid teal;
 }
+/* ........items........ */
 
 .plant {
     grid-row: -1 / -4;
@@ -232,5 +233,5 @@ audio {
     grid-column: 1/ span 4;
     height: 70%;
     margin: 0.4em 0 0 0.9em;
-
+   
 }
