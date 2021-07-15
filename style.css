@@ -196,8 +196,13 @@ h1:hover {
 .mario:hover {
     grid-row: 5 / 7;
     grid-column: 7/ 9;
-    transition: 1s all;
-    
+    transition: 1s all;   
+
+}
+.mario:active {
+    grid-row: 4 / 6;
+    grid-column: 7/ 9;
+    transition: 1s all;   
 
 }
 
